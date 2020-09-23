@@ -3,8 +3,8 @@ Minion Tracker is a simple keyboard-driven program to add/remove/update Minions 
 Launch the application for detailed description of the application and commands.  
 
 ## Technology
-Language Used: Java  
-Development Tool: IntelliJ  
+Language Used: **Java**
+Development Tool: **IntelliJ**
 
 ## Setup
 1) Download all the files.  
