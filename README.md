@@ -1,9 +1,9 @@
 # Minion Tracker
-Minion Tracker is a simple keyboard-driven program to add/remove/update Minions in terminal.  
+Minion Tracker is a simple ```keyboard-driven program to add/remove/update Minions``` in terminal.  
 Launch the application for detailed description of the application and commands.  
 
 ## Technology
-Language Used: **Java**
+Language Used: **Java**  
 Development Tool: **IntelliJ**
 
 ## Setup
