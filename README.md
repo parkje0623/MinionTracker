@@ -12,4 +12,4 @@ Development Tool: **IntelliJ**
 3) Run the application then description and how to use the application will be displayed in terminal.   
 
 ## Example
-![Simple Idea of Application](ezgif.com-gif-maker.gif)
+![Simple Idea of Application](MinionTrackerExample.gif)
